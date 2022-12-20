@@ -1,0 +1,27 @@
+{
+    "members": [
+        {
+            "posX": 1,
+            "posY": 2,
+            "hp": 300,
+            "name": "John",
+            "weapon": {
+                "_Weapon__name": "Kalash",
+                "_Weapon__damage": 40,
+                "_Weapon__range": 10,
+                "mode": true
+            }
+        },
+        {
+            "posX": 11,
+            "posY": 2,
+            "hp": 0,
+            "weapon": {
+                "_Weapon__name": "Kalash",
+                "_Weapon__damage": 40,
+                "_Weapon__range": 10,
+                "mode": true
+            }
+        }
+    ]
+}
